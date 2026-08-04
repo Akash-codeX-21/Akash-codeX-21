@@ -4,7 +4,7 @@
 <h3 id="welcome-to-deepuhub">Welcome to Akash-codeX-21 👩‍💻💻</h3>
 <ul>
 <li>📱 I'm Web Developer.</li>
-<li>👩🏻‍ 💻 I’m currently working on ❤️Android 🔥HTML❤️CSS❤️JS❤️Firebase!</li>
+<li>👩🏻‍ 💻 I’m currently working on ❤️Website🔥HTML❤️CSS❤️JS❤️Firebase!</li>
 <li>👯 I’m looking to collaborate on Website</li>
 <li>🤔 I’m looking for help with Web Development </li>
 <li>💬 Ask me about HTML,CSS, JS, Firebase</li>
