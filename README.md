@@ -1,7 +1,7 @@
   <p align="center">
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200">
 </p>
-<h3 id="welcome-to-deepuhub">Welcome to Akash-codeX-21 👩‍💻💻</h3>
+<h3 id="welcome-to-deepuhub">Welcome to Akash-codeX-21 👩‍💻💻<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
 <ul>
 <li>📱 I'm Web Developer.</li>
 <li>👩🏻‍ 💻 I’m currently working on ❤️Website🔥HTML❤️CSS❤️JS❤️Firebase!</li>
